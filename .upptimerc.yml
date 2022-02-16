@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://cdn.byts.co.in/images/logo.png
   name: Byts Pinger
   introTitle: "**Byts Pinger** Monitor Site Status."
-  introMessage: "**Byts Pinger** Monitor Site Status."
+  introMessage: "**Byts Pinger** Monitor Site Status...."
   navbar:
     - title: Status
       href: /
