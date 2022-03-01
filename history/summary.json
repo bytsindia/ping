@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/dadmin.byts.co.in",
     "slug": "byts-admin",
     "status": "down",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 80,
-    "timeDay": 134,
-    "timeWeek": 81,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 85,
+    "timeDay": 151,
+    "timeWeek": 94,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {
       "2022-02-16": 11
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/demo.byts.co.in",
     "slug": "byts-website",
     "status": "down",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 73,
-    "timeDay": 130,
-    "timeWeek": 79,
-    "timeMonth": 73,
-    "timeYear": 73,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 81,
+    "timeDay": 183,
+    "timeWeek": 98,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {
       "2022-02-16": 11
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 72,
-    "timeDay": 133,
-    "timeWeek": 75,
-    "timeMonth": 72,
-    "timeYear": 72,
+    "time": 76,
+    "timeDay": 134,
+    "timeWeek": 87,
+    "timeMonth": 76,
+    "timeYear": 76,
     "dailyMinutesDown": {
       "2022-02-16": 10
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 85,
-    "timeDay": 198,
-    "timeWeek": 98,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "time": 90,
+    "timeDay": 156,
+    "timeWeek": 109,
+    "timeMonth": 90,
+    "timeYear": 90,
     "dailyMinutesDown": {
       "2022-02-16": 11
     }
