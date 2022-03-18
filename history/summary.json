@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 93,
-    "timeDay": 65,
-    "timeWeek": 74,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "time": 91,
+    "timeDay": 38,
+    "timeWeek": 72,
+    "timeMonth": 92,
+    "timeYear": 91,
     "dailyMinutesDown": {
       "2022-02-16": 11
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 82,
-    "timeDay": 48,
+    "time": 81,
+    "timeDay": 55,
     "timeWeek": 71,
     "timeMonth": 82,
-    "timeYear": 82,
+    "timeYear": 81,
     "dailyMinutesDown": {
       "2022-02-16": 11
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/auth.byts.co.in",
     "slug": "byts-auth",
     "status": "down",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 79,
-    "timeDay": 89,
-    "timeWeek": 74,
+    "uptimeYear": "99.98%",
+    "time": 78,
+    "timeDay": 48,
+    "timeWeek": 71,
     "timeMonth": 79,
-    "timeYear": 79,
+    "timeYear": 78,
     "dailyMinutesDown": {
       "2022-02-16": 10
     }
@@ -71,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 80,
-    "timeDay": 44,
-    "timeWeek": 63,
+    "timeDay": 71,
+    "timeWeek": 65,
     "timeMonth": 80,
     "timeYear": 80,
     "dailyMinutesDown": {
